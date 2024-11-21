@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/grade-analysis-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/grade-analysis-dashboard/static/js/main.25967ff8.js",
+    "static/js/762.71e2f808.chunk.js": "/grade-analysis-dashboard/static/js/762.71e2f808.chunk.js",
+    "static/js/453.bba0ec6f.chunk.js": "/grade-analysis-dashboard/static/js/453.bba0ec6f.chunk.js",
+    "static/js/239.f58260c6.chunk.js": "/grade-analysis-dashboard/static/js/239.f58260c6.chunk.js",
+    "static/js/213.80c4aabe.chunk.js": "/grade-analysis-dashboard/static/js/213.80c4aabe.chunk.js",
+    "static/js/732.ce179c00.chunk.js": "/grade-analysis-dashboard/static/js/732.ce179c00.chunk.js",
+    "index.html": "/grade-analysis-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/grade-analysis-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.25967ff8.js.map": "/grade-analysis-dashboard/static/js/main.25967ff8.js.map",
+    "762.71e2f808.chunk.js.map": "/grade-analysis-dashboard/static/js/762.71e2f808.chunk.js.map",
+    "453.bba0ec6f.chunk.js.map": "/grade-analysis-dashboard/static/js/453.bba0ec6f.chunk.js.map",
+    "239.f58260c6.chunk.js.map": "/grade-analysis-dashboard/static/js/239.f58260c6.chunk.js.map",
+    "213.80c4aabe.chunk.js.map": "/grade-analysis-dashboard/static/js/213.80c4aabe.chunk.js.map",
+    "732.ce179c00.chunk.js.map": "/grade-analysis-dashboard/static/js/732.ce179c00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.25967ff8.js"
+  ]
+}
